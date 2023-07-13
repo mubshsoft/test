@@ -1,0 +1,37 @@
+
+.form-control{
+    border-radius: 0;
+}
+.form-control:focus{
+   border-radius: 0;
+    box-shadow: none;
+    border-color: black;
+}
+.card,.btn{
+    border-radius:0 ;
+}
+.card{
+    box-shadow: 1px 0px 6px 0px #ccc;
+}
+.completed{
+    text-decoration: line-through;
+}
+.no{
+    display: none;
+}
+.active{
+    color: #ccc;
+}
+input,button{
+    border-radius: 0 !important;
+    
+}
+
+
+form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border:none !important;
+    outline: none;
+    
+}
