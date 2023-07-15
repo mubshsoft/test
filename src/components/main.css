@@ -34,3 +34,10 @@ form-control:focus {
     outline: none;
     
 }
+
+.formClass{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
